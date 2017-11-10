@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">vrg-sample</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="input_button_label">Input</string>
+    <string name="cancel_button_label">Previous</string>
+    <string name="clear_button_label">Clear</string>
+    <string name="lang_button_label">Select</string>
+</resources>
